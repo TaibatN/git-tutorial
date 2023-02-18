@@ -1,4 +1,5 @@
 print ("Hello world")
 
 area1 = ["Lagos, Ogun, Ijebu"]
-print is "Lagos" in area1
+my_fruit_list = ["Apple, Banana, Orange"]
+print (my_fruit_list)
